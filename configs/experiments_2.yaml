@@ -1,0 +1,8 @@
+experiment_name: experiments_2
+rand_seed: 114514
+batch_size: 64
+lr: 0.0001
+epoches: 200
+eval_every: 10
+
+models: EMGClassifierV1
